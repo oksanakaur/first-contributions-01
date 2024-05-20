@@ -1,6 +1,7 @@
 # Contributors
 - [Luke Olende](https://github.com/LukeOlende)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
+- [Keolebogile Segoneco] (https://github.com/oksanakaur)
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C 
